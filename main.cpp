@@ -5,8 +5,8 @@ using namespace std;
 //------------------------DEFINE------------------------//
 #define MEMORY_ERROR 2
 #define FILE_ERROR 3
-#define path R"(C:\Users\Kurai\Desktop\0\Proga\sles\save.txt)"
-#define defaultPath R"(C:\Users\Kurai\Desktop\0\Proga\sles\save1.txt)"
+#define path R"(...\sles\save.txt)"
+#define defaultPath R"(...\sles\save1.txt)"
 //------------------------STRUCT------------------------//
 struct tree{
     char* line;
